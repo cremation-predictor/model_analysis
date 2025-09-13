@@ -146,7 +146,7 @@
 - **Ridge Regression**이 Holdout / CV 모두에서 가장 안정적이고 일반화 가능한 성능을 보임  
 - 데이터가 적고 선형적 추세가 강해, 비선형 모델(Random Forest, XGBoost)은 일반화 실패  
 
-![Ridge Regression 예측 결과](predictions_dropna.png)
+![Ridge Regression 예측 결과](notebooks/predictions_dropna.png)
 
 ---
 
