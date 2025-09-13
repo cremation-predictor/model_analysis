@@ -93,7 +93,7 @@
 
 # 3. 전처리 (Preprocessing)
 
-![전처리 과정](images/preprocessing.png)
+![전처리 과정](notebooks/v1_1.png,notebooks/v1_2.png)
 
 - **결측치 처리**: 결측치가 포함된 행은 삭제(dropna) 처리하여 모델 학습 시 안정성을 확보  
   (초기 기획은 중앙값 대체였으나, 실험 결과 삭제 처리하는 것이 모델 성능이 더 높음을 확인)  
